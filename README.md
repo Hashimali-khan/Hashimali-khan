@@ -7,12 +7,12 @@
 ---
 
 ### ⚡ About Me
-[cite_start]I’m a **Frontend Engineer** and **Software Engineering student** [cite: 2, 46] [cite_start]based in Islamabad[cite: 4]. [cite_start]I specialize in building high-performance web architectures—from **60FPS Canvas rendering** to automated **CI/CD pipelines**[cite: 5, 6, 33]. I don't just write code; [cite_start]I bridge the gap between complex technical constraints and creative vision[cite: 20].
+I’m a **Frontend Engineer** and **Software Engineering student** based in Islamabad. I specialize in building high-performance web architectures—from **60FPS Canvas rendering** to automated **CI/CD pipelines**. I don't just write code; I bridge the gap between complex technical constraints and creative vision.
 
-* [cite_start]🔭 **Currently:** Leading frontend architecture at **BeWhoopApp**[cite: 13].
-* [cite_start]☁️ **Leadership:** Director of the **AWS Cloud Learning Club** at COMSATS[cite: 41].
-* [cite_start]🛠️ **Obsession:** Performance optimization and modular architecture[cite: 15, 16].
-* [cite_start]🎯 **Goal:** Engineering seamless user experiences with zero-latency state recovery[cite: 35].
+* 🔭 **Currently:** Leading frontend architecture at **BeWhoopApp**.
+* ☁️ **Leadership:** Director of the **AWS Cloud Learning Club** at COMSATS.
+* 🛠️ **Obsession:** Performance optimization and modular architecture.
+* 🎯 **Goal:** Engineering seamless user experiences with zero-latency state recovery.
 
 ---
 
@@ -30,50 +30,50 @@
 
 | Category | Skills |
 | :--- | :--- |
-| **Core Frontend** | [cite_start]React 18, RTK Query, React Portals, Redux Toolkit [cite: 5] |
-| **Vanilla Mastery** | [cite_start]Canvas API (60FPS), Drag & Drop API, DOM Performance [cite: 5, 33] |
-| **Engineering** | [cite_start]Jest, Vitest, CI/CD, Modular Architecture [cite: 6, 15] |
-| **Design** | [cite_start]Figma Prototyping, Responsive Design Systems, Bootstrap 5 [cite: 7] |
+| **Core Frontend** | React 18, RTK Query, React Portals, Redux Toolkit |
+| **Vanilla Mastery** | Canvas API (60FPS), Drag & Drop API, DOM Performance |
+| **Engineering** | Jest, Vitest, CI/CD, Modular Architecture |
+| **Design** | Figma Prototyping, Responsive Design Systems, Bootstrap 5 |
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🎨 [Frill (E-Com)](https://frill-react.vercel.app)
-* [cite_start]**The Tech:** React 18, Redux Toolkit, RTK Query, Tailwind[cite: 23].
-* [cite_start]**The Flex:** Developed a **Canvas Design Studio** with a custom-engineered Urdu Keyboard, solving complex **RTL rendering** and Unicode mapping[cite: 23, 24, 25].
+* **The Tech:** React 18, Redux Toolkit, RTK Query, Tailwind.
+* **The Flex:** Developed a **Canvas Design Studio** with a custom-engineered Urdu Keyboard, solving complex **RTL rendering** and Unicode mapping.
 
 #### 🎫 BeWhoop
-* [cite_start]**The Tech:** Bootstrap 5, Vanilla JS, CI/CD[cite: 27].
-* [cite_start]**The Flex:** Shipped a production-ready event platform with **multi-step registration wizards** and real-time dashboards[cite: 29].
+* **The Tech:** Bootstrap 5, Vanilla JS, CI/CD.
+* **The Flex:** Shipped a production-ready event platform with **multi-step registration wizards** and real-time dashboards.
 
 #### 🖼️ Image Editor (Vanilla Engine)
-* [cite_start]**The Tech:** Vanilla JS, Canvas API[cite: 31].
-* [cite_start]**The Flex:** Achieved a **60fps rendering benchmark** for 9+ real-time filters without external dependencies[cite: 33].
+* **The Tech:** Vanilla JS, Canvas API.
+* **The Flex:** Achieved a **60fps rendering benchmark** for 9+ real-time filters without external dependencies.
 
 #### 📋 Kanban Board
-* [cite_start]**The Tech:** Native Drag & Drop API, LocalStorage[cite: 34, 35].
-* [cite_start]**The Flex:** Engineered for **zero-latency state recovery**[cite: 35].
+* **The Tech:** Native Drag & Drop API, LocalStorage.
+* **The Flex:** Engineered for **zero-latency state recovery**.
 
 ---
 
 ### 💼 Professional Experience
 
-* [cite_start]**Junior Software Engineer (Lead Frontend) @ BeWhoopApp** [cite: 13]
-    * [cite_start]Architected a dual-sided production portal as the **sole frontend engineer**[cite: 13].
-    * [cite_start]Refactored a 2,000-line monolithic script into a modular architecture, boosting sprint velocity and cutting debugging time by **40%**[cite: 15].
-    * [cite_start]Automated static validation via GitHub Actions, ensuring **zero asset-link regressions**[cite: 17].
+* **Junior Software Engineer (Lead Frontend) @ BeWhoopApp**
+    * Architected a dual-sided production portal as the **sole frontend engineer**.
+    * Refactored a 2,000-line monolithic script into a modular architecture, boosting sprint velocity and cutting debugging time by **40%**.
+    * Automated static validation via GitHub Actions, ensuring **zero asset-link regressions**.
 
-* [cite_start]**Technical Design Lead (Self-Employed)** [cite: 19]
-    * [cite_start]Optimized design-to-dev pipelines for 10+ clients[cite: 20].
+* **Technical Design Lead (Self-Employed)**
+    * Optimized design-to-dev pipelines for 10+ clients.
 
 ---
 
 ### 🎓 Education & Community
 
-* [cite_start]**BS Software Engineering** @ COMSATS University Islamabad (4th Sem)[cite: 46].
-* [cite_start]**Director** @ AWS Cloud Learning Club: Promoting cloud literacy for 500+ students[cite: 41, 42].
-* [cite_start]**Certifications:** Python for Everybody (U. Michigan), Software Engineering (IBM)[cite: 47].
+* **BS Software Engineering** @ COMSATS University Islamabad (4th Sem).
+* **Director** @ AWS Cloud Learning Club: Promoting cloud literacy for 500+ students.
+* **Certifications:** Python for Everybody (U. Michigan), Software Engineering (IBM).
 
 ---
 
