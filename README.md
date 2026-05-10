@@ -87,7 +87,7 @@ I’m a **Frontend Engineer** and **Software Engineering student** based in Isla
 
 ### 📧 Get In Touch
 <p align="left">
-  <a href="https://linkedin.com/in/hashimali9200"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/hashim-ali-92009627a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hashimalikhan2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
