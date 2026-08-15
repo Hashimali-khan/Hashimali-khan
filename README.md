@@ -1,14 +1,14 @@
 # Hey, I'm Hashim Ali Khan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;Available+for+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+FastAPI+%7C+Supab[...]"/>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-I build across the full stack — React/Next.js on the frontend, FastAPI and async Python on the backend, with Supabase/Postgres and Redis tying it together. I've shipped e-commerce platforms end to end (UI + API), and I care about clean architecture, testing, and CI/CD as much as I care about the UI actually feeling good to use.
+I build across the full stack — React/Next.js on the frontend, FastAPI and async Python on the backend, with Supabase/Postgres and Redis tying it together. I've shipped e-commerce platforms end [...]
 
 * 💼 **Available for freelance / contract work** — full-stack, frontend-heavy or backend-heavy, your call.
 * 🧱 **What I reach for:** React, Next.js, TypeScript, FastAPI, Supabase, PostgreSQL, Redis, Tailwind.
@@ -56,7 +56,7 @@ React + Redux Toolkit + Tailwind, with a canvas-based design studio built on Fab
 The FastAPI counterpart to Frill: async SQLAlchemy + PostgreSQL, Redis caching, Alembic migrations, Supabase storage, and Stripe for payments — built to match the frontend's exact API contract.
 
 #### 🧩 UpForge — Gamified Learning Platform
-A project-based learning platform where users complete courses, earn XP, maintain streaks, and climb a leaderboard. Built with Next.js 16 (App Router) + React 19 + TypeScript, Clerk for auth, and PostgreSQL via Drizzle ORM — with a YouTube Data API script that seeds courses directly from playlists.
+A project-based learning platform where users complete courses, earn XP, maintain streaks, and climb a leaderboard. Built with Next.js 16 (App Router) + React 19 + TypeScript, Clerk for auth, and [...]
 
 #### 📋 Kanban-Board
 A drag-and-drop task board built with vanilla JS.
@@ -65,7 +65,7 @@ A drag-and-drop task board built with vanilla JS.
 
 ### 🧭 Engineering Leadership & Process
 
-Beyond writing code, I've worked on the process side of engineering teams — defining contribution workflows, coding standards, and CI/CD practices for a multi-language (TypeScript/Python/JS) platform. That includes writing governance docs, setting up PR/branching policy, and coordinating across frontend, backend, and infra so a team can ship without stepping on each other.
+Beyond writing code, I've worked on the process side of engineering teams — defining contribution workflows, coding standards, and CI/CD practices for a multi-language (TypeScript/Python/JS) pla[...]
 
 ---
 
@@ -73,7 +73,7 @@ Beyond writing code, I've worked on the process side of engineering teams — de
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hashimali-khan&show_icons=true&theme=tokyonight" alt="Hashim's Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hashimali-khan&theme=tokyonight" alt="Hashim's Streak" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Hashimali-khan&theme=tokyonight" alt="Hashim's Streak" height="165" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimali-khan&layout=compact&theme=tokyonight" alt="Top Languages" />
