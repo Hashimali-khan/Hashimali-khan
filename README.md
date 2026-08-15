@@ -71,13 +71,25 @@ Beyond writing code, I've worked on the process side of engineering teams — de
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hashimali-khan&show_icons=true&theme=tokyonight" alt="Hashim's Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Hashimali-khan&theme=tokyonight" alt="Hashim's Streak" height="165" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://vercel.app" alt="Hashim's Stats" height="175" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Hashimali-khan&theme=tokyonight" alt="Hashim's Streak" height="175" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashimali-khan&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Top Languages" height="165" />
 </p>
+
 
 ---
 
