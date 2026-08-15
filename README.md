@@ -71,8 +71,6 @@ Beyond writing code, I've worked on the process side of engineering teams — de
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <table align="center">
     <tr>
@@ -80,7 +78,7 @@ Beyond writing code, I've worked on the process side of engineering teams — de
         <img src="https://vercel.app" alt="Hashim's Stats" height="175" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Hashimali-khan&theme=tokyonight" alt="Hashim's Streak" height="175" />
+        <img src="https://vercel.app" alt="Hashim's Streak" height="175" />
       </td>
     </tr>
   </table>
@@ -89,6 +87,7 @@ Beyond writing code, I've worked on the process side of engineering teams — de
 <p align="center">
   <img src="https://vercel.app" alt="Top Languages" height="165" />
 </p>
+
 
 
 ---
