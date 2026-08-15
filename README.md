@@ -1,9 +1,9 @@
 # 🚀 Hey there, I'm Hashim Ali Khan! 
-# Hey, I'm Hashim Ali Khan 👋
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Frontend+Engineer;SE+Student+@+COMSATS;Technical+Design+Lead;Open+Source+Enthusiast" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;Available+for+Freelance+Work" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;Available+for+Freelance+Work;SE+Student+@+COMSATS;Technical+Design+Lead;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
