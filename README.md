@@ -1,5 +1,28 @@
-# 💫 About Me:
-I build across the full stack — React/Next.js on the frontend, FastAPI and async Python on the backend, with Supabase/Postgres and Redis tying it together. I've shipped e-commerce platforms end [...]<br><br>💼 Available for freelance / contract work — full-stack, frontend-heavy or backend-heavy, your call.<br>🧱 What I reach for: React, Next.js, TypeScript, FastAPI, Supabase, PostgreSQL, Redis, Tailwind.<br>🛠️ What I also do: engineering governance — coding standards, contribution workflows, CI/CD — for teams shipping multi-language codebases.<br>🎓 Software Engineering student, COMSATS University Islamabad.
+# 🚀 Hey there, I'm Hashim Ali Khan! 
+# Hey, I'm Hashim Ali Khan 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Frontend+Engineer;SE+Student+@+COMSATS;Technical+Design+Lead;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+FastAPI+%7C+Supabase;Available+for+Freelance+Work" alt="Typing SVG" />
+</p>
+
+---
+
+### ⚡ About Me
+I’m a **Frontend Engineer** and **Software Engineering student** based in Islamabad. I specialize in building high-performance web architectures—from **60FPS Canvas rendering** to automated **CI/CD pipelines**. I don't just write code; I bridge the gap between complex technical constraints and creative vision.
+
+* 🔭 **Currently:** Leading frontend architecture at **BeWhoopApp**.
+* ☁️ **Leadership:** Director of the **AWS Cloud Learning Club** at COMSATS.
+* 🛠️ **Obsession:** Performance optimization and modular architecture.
+* 🎯 **Goal:** Engineering seamless user experiences with zero-latency state recovery.
+I build across the full stack — React/Next.js on the frontend, FastAPI and async Python on the backend, with Supabase/Postgres and Redis tying it together. I've shipped e-commerce platforms end to end (UI + API), and I care about clean architecture, testing, and CI/CD as much as I care about the UI actually feeling good to use.
+
+* 💼 **Available for freelance / contract work** — full-stack, frontend-heavy or backend-heavy, your call.
+* 🧱 **What I reach for:** React, Next.js, TypeScript, FastAPI, Supabase, PostgreSQL, Redis, Tailwind.
+* 🛠️ **What I also do:** engineering governance — coding standards, contribution workflows, CI/CD — for teams shipping multi-language codebases.
+* 🎓 Software Engineering student, COMSATS University Islamabad.
+
+---
 
 
 ## 🌐 Socials:
